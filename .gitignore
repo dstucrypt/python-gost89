@@ -1,0 +1,12 @@
+env
+.*.swp
+.*.swo
+*.py[co]
+__pycache__
+
+# Translations compiled files
+*.mo
+*.messages.json
+
+*.so
+build/
