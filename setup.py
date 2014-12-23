@@ -11,7 +11,7 @@ module1 = Extension(
 
 setup(
     name = 'gost89',
-    version = '0.1.0',
+    version = '0.1.1',
     description = 'Gost89 bindings for python',
     url='https://github.com/dstucrypt/python-gost89',
     author='Ilya Petrov',
